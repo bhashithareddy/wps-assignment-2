@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="courses.xsl"?>
+<Course_Catalog>
+  <Department Code="CS">
+    <Title>Computer Science</Title>
+    <Chair>
+      <Professor>
+        <First_Name>Jennifer</First_Name>
+        <Last_Name>Widom</Last_Name>
+      </Professor>
+    </Chair>
+  </Department>
+  <Department Code="LING">
+    <Title>Linguistics</Title>
+    <Chair>
+      <Professor>
+        <First_Name>Beth</First_Name>
+        <Last_Name>Levin</Last_Name>
+      </Professor>
+    </Chair>
+  </Department>
+  <Department Code="EE">
+    <Title>Electrical Engineering</Title>
+    <Chair>
+      <Professor>
+        <First_Name>Mark</First_Name>
+        <Middle_Initial>A.</Middle_Initial>
+        <Last_Name>Horowitz</Last_Name>
+      </Professor>
+    </Chair>
+  </Department>
+  <Department>
+    <Title>Computer Science</Title>
+    <Chair>
+      <Professor>
+        <First_Name>Bhanu </First_Name>
+        <Middle_Initial> Prasad</Middle_Initial>
+        <Last_Name>Cherukuvada</Last_Name>
+      </Professor>
+    </Chair>
+  </Department>
+  <Department>
+    <Title>Computer Science</Title>
+    <Chair>
+      <Professor>
+        <First_Name>Bhanu </First_Name>
+        <Middle_Initial> Prasad</Middle_Initial>
+        <Last_Name>Cherukuvada</Last_Name>
+      </Professor>
+    </Chair>
+  </Department>
+  <Department>
+    <Title>Computer Science</Title>
+    <Chair>
+      <Professor>
+        <First_Name>Bhanu </First_Name>
+        <Middle_Initial> Prasad</Middle_Initial>
+        <Last_Name>Cherukuvada</Last_Name>
+      </Professor>
+    </Chair>
+  </Department>
+  <Department>
+    <Title>Computer Science</Title>
+    <Chair>
+      <Professor>
+        <First_Name>Bhanu </First_Name>
+        <Middle_Initial> Prasad</Middle_Initial>
+        <Last_Name>Cherukuvada</Last_Name>
+      </Professor>
+    </Chair>
+  </Department>
+</Course_Catalog>
